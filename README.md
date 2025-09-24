@@ -89,11 +89,13 @@ Revenue by Age Group & Product
 
 📊 Key Insights
 
-Clothing generated the highest revenue ($155,580)
+Electronics generated the highest revenue ($156,905)
+
+Clothing followed at $155,580
+
+Beauty generated $143,515
 
 Middle-aged customers are the biggest contributors across categories
-
-Electronics performed strongly across both genders
 
 🚀 Tools Used
 
