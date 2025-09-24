@@ -73,4 +73,29 @@ A small group of top spenders drives most revenue.
 
 📌 Takeaway: Understanding who spends, what they buy, and when sales peak can guide smarter promotions, inventory planning, and customer engagement strategies.
 
+# Retail-Sales-Dashboard
+
+This project is an Excel-based dashboard analyzing retail sales performance across products, customer demographics, and revenue streams.
+
+📌 Features
+
+KPIs: Total Revenue, Items Sold, and Customers
+
+Revenue by Gender & Product
+
+Revenue by Products
+
+Revenue by Age Group & Product
+
+📊 Key Insights
+
+Clothing generated the highest revenue ($155,580)
+
+Middle-aged customers are the biggest contributors across categories
+
+Electronics performed strongly across both genders
+
+🚀 Tools Used
+
+Microsoft Excel (Formulas, Charts, Dashboard Design)
 
